@@ -7,7 +7,7 @@
 
 The optimized dark theme for Svelte / Sveltekit development.
 
-![LATEST VERSIONS CHANGELOG](https://github.com/2u841r/svelte-theme-v5/blob/main/CHANGELOG.md)
+[LATEST VERSIONS CHANGELOG](https://github.com/2u841r/svelte-theme-v5/blob/main/CHANGELOG.md)
 
 ## Intuitive Syntax Highlighting
 
@@ -32,7 +32,7 @@ The optimized dark theme for Svelte / Sveltekit development.
 | Punctuation               | Beige               | ![#f9f4da](https://placehold.it/15/f9f4da/000000?text=+) `#f9f4da` | -->
 
 ## Screenshots
-![.svelte](https://github.com/2u841r/Svelte-Docs-Theme/raw/main/images/demo.png)
+![.svelte](https://github.com/2u841r/svelte-theme-v5/raw/main/images/demo.png)
 
 
 ## Acknowledgements
