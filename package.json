@@ -1,0 +1,36 @@
+{
+  "name": "svelte-theme-v5",
+  "displayName": "Svelte Theme v5",
+  "description": "Svelte Theme, inspired by Svelte Docs",
+  "icon": "images/svelte-logo.png",
+  "version": "5.0.0",
+  "publisher": "ZubairIbnZamir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2u841r/svelte-theme-v5.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "svelte",
+    "svelte v5",
+    "svelte-docs",
+    "sveltekit",
+    "svelte 5"
+  ],
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Svelte Theme v5",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZubairIbnZamir-Svelte-Theme.json"
+      }
+    ]
+  }
+}
