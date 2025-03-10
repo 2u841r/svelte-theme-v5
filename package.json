@@ -3,7 +3,7 @@
   "displayName": "Svelte Theme 5",
   "description": "Svelte Theme, inspired by Svelte Docs",
   "icon": "images/svelte-logo.png",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "publisher": "ZubairIbnZamir",
   "repository": {
     "type": "git",
