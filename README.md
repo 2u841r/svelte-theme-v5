@@ -2,12 +2,12 @@
 
 <!-- ![svelte](https://github.com/2u841r/Svelte-Docs-Theme/raw/main/images/svelte-logo.png) -->
 
-<img src="https://github.com/2u841r/Svelte-Docs-Theme/raw/main/images/svelte-logo.png" alt="Svelte" width="107" height="128">
+<img src="https://github.com/2u841r/svelte-theme-v5/raw/main/images/svelte-logo.png" alt="Svelte" width="107" height="128">
 
 
 The optimized dark theme for Svelte / Sveltekit development.
 
-![LATEST VERSIONS CHANGELOG](https://github.com/2u841r/Svelte-Docs-Theme/blob/main/CHANGELOG.md)
+![LATEST VERSIONS CHANGELOG](https://github.com/2u841r/svelte-theme-v5/blob/main/CHANGELOG.md)
 
 ## Intuitive Syntax Highlighting
 
