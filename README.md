@@ -1,4 +1,4 @@
-# Svelte Docs Theme
+# Svelte Theme 5
 
 <!-- ![svelte](https://github.com/2u841r/Svelte-Docs-Theme/raw/main/images/svelte-logo.png) -->
 
