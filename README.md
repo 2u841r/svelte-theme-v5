@@ -1,45 +1,38 @@
 # Svelte Theme 5
 
-<!-- ![svelte](https://github.com/2u841r/Svelte-Docs-Theme/raw/main/images/svelte-logo.png) -->
-
 <img src="https://github.com/2u841r/svelte-theme-v5/raw/main/images/svelte-logo.png" alt="Svelte" width="107" height="128">
-
 
 The optimized dark theme for Svelte / Sveltekit development.
 
-[LATEST VERSIONS CHANGELOG](https://github.com/2u841r/svelte-theme-v5/blob/main/CHANGELOG.md)
+[open-vsx link](https://open-vsx.org/extension/ZubairIbnZamir/svelte-theme-v5)
+
+[Latest Version Changelog](https://github.com/2u841r/svelte-theme-v5/blob/main/CHANGELOG.md)
 
 ## Intuitive Syntax Highlighting
 
-**Svelte Docs Theme** is the optimized dark theme for web development. It has been meticulously designed to be easy on the eyes and intuitive. 
+**Svelte Docs Theme** is the optimized dark theme for web development. It has been meticulously designed to be easy on the eyes and intuitive.
 
 ## Colors
-    --shiki-color-text: #c4c1bb;
-    --shiki-token-comment: #8c8c8c;
-    --shiki-token-keyword: #57b5f4;
-    --shiki-token-function: #ebaf94;
-    --shiki-token-string: #ccb88f;
 
-<!-- | Usage                     | Palette             | Hex Code                                                           |
-| ------------------------- | ------------------- | ------------------------------------------------------------------ |
-| Keyword, Storage, Entity  | Pink Sherbet        | ![#f38ba3](https://placehold.it/15/f38ba3/ffffff?text=+) `#f38ba3` |
-| Variable, Name, Type, Tag | Aero                | ![#12b5e5](https://placehold.it/15/12b5e5/000000?text=+) `#12b5e5` |
-| Attribute                 | Green (Pigment)     | ![#0ba95b](https://placehold.it/15/0ba95b/000000?text=+) `#0ba95b` |
-| Function, Boolean         | Middle Blue Purple  | ![#9d7dce](https://placehold.it/15/9d7dce/000000?text=+) `#9d7dce` |
-| Comment, Regex, Template  | Blue-Gray (Crayola) | ![#c0c5ce](https://placehold.it/15/C0C5CE/000000?text=+) `#c0c5ce` |
-| Number                    | Spanish Yellow      | ![#fcba28](https://placehold.it/15/fcba28/000000?text=+) `#fcba28` |
-| String                    | Atomic Tangerine    | ![#f99157](https://placehold.it/15/f99157/000000?text=+) `#f99157` |
-| Punctuation               | Beige               | ![#f9f4da](https://placehold.it/15/f9f4da/000000?text=+) `#f9f4da` | -->
+| Usage    | Color Name *    | Hex Code                                                           |
+| -------- | --------------- | ------------------------------------------------------------------ |
+| Function | Tumbleweed      | ![#ebaf94](https://placehold.co/15/ebaf94/000000?text=+) `#ebaf94` |
+| String   | Tan             | ![#ccb88f](https://placehold.co/15/ccb88f/000000?text=+) `#ccb88f` |
+| Keyword  | Blue Jeans      | ![#57b5f4](https://placehold.co/15/57b5f4/000000?text=+) `#57b5f4` |
+| Text     | Pale Silver     | ![#c4c1bb](https://placehold.co/15/c4c1bb/ffffff?text=+) `#c4c1bb` |
+| comment  | Philippine Gray | ![#8c8c8c](https://placehold.co/15/8c8c8c/000000?text=+) `#8c8c8c` |
+
+*The closest name of the hex color by color-name.com
 
 ## Screenshots
-![.svelte](https://github.com/2u841r/svelte-theme-v5/raw/main/images/demo.png)
 
+![.svelte](https://github.com/2u841r/svelte-theme-v5/raw/main/images/demo.png)
 
 ## Acknowledgements
 
 - Originally inspired by [svelte.dev](https://Svelte.dev).
+- Color Names Collected from [color-name.com](https://color-name.com/).
 - Tutorial by [Coder Coder](https://www.youtube.com/watch?v=pGzssFNtWXw)
-
 
 ## TODO - to fix
 
