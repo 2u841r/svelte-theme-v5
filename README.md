@@ -6,7 +6,9 @@ The optimized dark theme for Svelte / Sveltekit development.
 
 [open-vsx link](https://open-vsx.org/extension/ZubairIbnZamir/svelte-theme-v5)
 
+
 [Latest Version Changelog](https://github.com/2u841r/svelte-theme-v5/blob/main/CHANGELOG.md)
+
 
 ## Intuitive Syntax Highlighting
 
